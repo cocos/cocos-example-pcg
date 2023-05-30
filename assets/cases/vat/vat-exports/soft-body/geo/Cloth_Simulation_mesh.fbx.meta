@@ -1,0 +1,61 @@
+{
+  "ver": "2.3.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bfd7f693-e4c9-4935-bfcf-de483ec60a48",
+  "files": [],
+  "subMetas": {
+    "15841": {
+      "importer": "gltf-scene",
+      "uuid": "bfd7f693-e4c9-4935-bfcf-de483ec60a48@15841",
+      "displayName": "",
+      "id": "15841",
+      "name": "Cloth_Simulation_mesh.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29723": {
+      "importer": "gltf-mesh",
+      "uuid": "bfd7f693-e4c9-4935-bfcf-de483ec60a48@29723",
+      "displayName": "",
+      "id": "29723",
+      "name": "MESH.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "bfd7f693-e4c9-4935-bfcf-de483ec60a48@15841",
+    "assetFinder": {
+      "meshes": [
+        "bfd7f693-e4c9-4935-bfcf-de483ec60a48@29723"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "bfd7f693-e4c9-4935-bfcf-de483ec60a48@15841"
+      ]
+    },
+    "tangents": 3
+  }
+}

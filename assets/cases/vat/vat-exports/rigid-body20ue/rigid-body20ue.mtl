@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "08c6d756-c02f-48a2-9e8a-55ec59a8f83d",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "HAS_SECOND_UV": true,
+      "USE_VERTEX_COLOR": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "vatSpeed": 0.2,
+      "vatFrameCount": 59,
+      "vatPivMax": 225.43936,
+      "vatPivMin": -112.9699,
+      "vatPosMax": 824.92053,
+      "vatPosMin": -284.34289,
+      "normalMap": {
+        "__uuid__": "1f264145-0c87-42e2-8609-b40654510cb1@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPositionMap": {
+        "__uuid__": "92113fd6-ebf2-42d4-8665-2e80702fd27f@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPosAlphaMap": {
+        "__uuid__": "92113fd6-ebf2-42d4-8665-2e80702fd27f@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotationMap": {
+        "__uuid__": "6d918fd1-b561-4b97-b3a8-4e64a176deef@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotAlphaMap": {
+        "__uuid__": "6d918fd1-b561-4b97-b3a8-4e64a176deef@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

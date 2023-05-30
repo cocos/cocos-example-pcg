@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "0ebba288-6c74-4f49-ba78-7da30e2202b8",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "vatSpeed": 0.2,
+      "vatFrameCount": 60,
+      "vatDebugFrame": 53,
+      "roughness": 0.682,
+      "mainTexture": {
+        "__uuid__": "73f0e563-1059-4459-b260-37b9dc95d34b@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "normalMap": {
+        "__uuid__": "f4378036-58dc-45a3-a5e5-12448ba0b062@3c318",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPositionMap": {
+        "__uuid__": "69b543ff-a526-4810-ad49-4045298c379b@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPosSignMap": {
+        "__uuid__": "69b543ff-a526-4810-ad49-4045298c379b@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPosAlphaMap": {
+        "__uuid__": "69b543ff-a526-4810-ad49-4045298c379b@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotationMap": {
+        "__uuid__": "1ad54a4b-9069-4a88-9893-0c2a62fa5fc9@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotSignMap": {
+        "__uuid__": "1ad54a4b-9069-4a88-9893-0c2a62fa5fc9@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotAlphaMap": {
+        "__uuid__": "1ad54a4b-9069-4a88-9893-0c2a62fa5fc9@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

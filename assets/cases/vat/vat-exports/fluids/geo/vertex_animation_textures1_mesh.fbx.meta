@@ -1,0 +1,60 @@
+{
+  "ver": "2.3.2",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734",
+  "files": [],
+  "subMetas": {
+    "29723": {
+      "importer": "gltf-mesh",
+      "uuid": "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734@29723",
+      "displayName": "",
+      "id": "29723",
+      "name": "MESH.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92dc6": {
+      "importer": "gltf-scene",
+      "uuid": "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734@92dc6",
+      "displayName": "",
+      "id": "92dc6",
+      "name": "vertex_animation_textures1_mesh.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734@92dc6",
+    "assetFinder": {
+      "meshes": [
+        "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734@29723"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "40f5fa2f-a69c-4790-96f1-3e1ea9a1c734@92dc6"
+      ]
+    }
+  }
+}

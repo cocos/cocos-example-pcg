@@ -1,0 +1,94 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "49c68c9d-2c30-40c2-b946-b35f61c71c93",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_LOOKUP_TEXTURE": true,
+      "USE_LOOKUP_AUTO_FRAME_COUNT": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "vatSpeed": 0.1,
+      "vatLUTTextureWidth": 4096,
+      "vatLUTTextureHeight": 5100,
+      "vatVertexCount": 346320,
+      "roughness": 0.976,
+      "vatPositionMap": {
+        "__uuid__": "4cca6cf0-6ba8-4851-83d4-f7db627b3921@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPosSignMap": {
+        "__uuid__": "4cca6cf0-6ba8-4851-83d4-f7db627b3921@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotationMap": {
+        "__uuid__": "c8b913e5-2492-451d-842f-294c398da0ee@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotSignMap": {
+        "__uuid__": "c8b913e5-2492-451d-842f-294c398da0ee@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotAlphaMap": {
+        "__uuid__": "c8b913e5-2492-451d-842f-294c398da0ee@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatLookupMap": {
+        "__uuid__": "ebd6d7a2-88b8-4072-a610-2c787c6e04fc@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

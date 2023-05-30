@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {
+    "editorOnly": true
+  },
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "fbc18e4a-ab74-48df-9106-38e7bd10ff25",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_REFRACTION": true,
+      "USE_WATER_SCATTERING": true,
+      "USE_LOOKUP_TEXTURE": true,
+      "USE_NORMAL_MAP": true,
+      "USE_LOOKUP_AUTO_FRAME_COUNT": true,
+      "USE_EDGE_FADING": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {
+            "blend": true,
+            "blendSrc": 2,
+            "blendDst": 4
+          }
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "vatBoundingBoxMin": {
+        "__type__": "cc.Vec3",
+        "x": -3.53,
+        "y": -2.639,
+        "z": -2.6
+      },
+      "vatRotAlphaMap": {
+        "__uuid__": "ab503ac0-d591-4290-8e0a-7fa30b8d7e01@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatSpeed": 0.1,
+      "vatLUTTextureWidth": 4096,
+      "vatNormalIntensity": 0.357,
+      "vatBoundingBoxMax": {
+        "__type__": "cc.Vec3",
+        "x": 3.5,
+        "y": 0.4,
+        "z": 9.55
+      },
+      "vatLUTTextureHeight": 5400,
+      "normalStrength": 0.1,
+      "vatVertexCount": 181632,
+      "roughness": 0.072,
+      "metallic": 1,
+      "normalMap": {
+        "__uuid__": "ca27b1ae-bc81-42e3-b94e-739e322e3894@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "normalMapDetailed": {
+        "__uuid__": "70c84564-b921-4c5d-9953-7e8fda6496cf@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "waterSpeed": 0.366,
+      "detailedSpeed": 0.1,
+      "detailedTiling": 1,
+      "vatPositionMap": {
+        "__uuid__": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatPosSignMap": {
+        "__uuid__": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotationMap": {
+        "__uuid__": "ab503ac0-d591-4290-8e0a-7fa30b8d7e01@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatRotSignMap": {
+        "__uuid__": "ab503ac0-d591-4290-8e0a-7fa30b8d7e01@08561@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "vatLookupMap": {
+        "__uuid__": "0290ddda-9bd7-46ea-b35b-d90a28a62aff@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      }
+    },
+    {},
+    {},
+    {}
+  ]
+}

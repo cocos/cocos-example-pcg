@@ -1,0 +1,139 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc@6c48a",
+      "displayName": "Cloth_Simulation_rot",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "855b377e-8b06-4c43-85bf-147a19aff8fc",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08561": {
+      "importer": "sign-image",
+      "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc@08561",
+      "displayName": "sign",
+      "id": "08561",
+      "name": "sign",
+      "userData": {
+        "fixAlphaTransparencyArtifacts": false,
+        "isRGBE": false,
+        "alpha": "project://temp/asset-db/assets/85/855b377e-8b06-4c43-85bf-147a19aff8fc/855b377e-8b06-4c43-85bf-147a19aff8fc_alpha.png",
+        "hasAlpha": true,
+        "redirect": "855b377e-8b06-4c43-85bf-147a19aff8fc@08561@6c48a",
+        "type": "texture"
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {
+        "6c48a": {
+          "importer": "texture",
+          "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc@08561@6c48a",
+          "displayName": "sign",
+          "id": "6c48a",
+          "name": "texture",
+          "userData": {
+            "wrapModeS": "repeat",
+            "wrapModeT": "repeat",
+            "minfilter": "nearest",
+            "magfilter": "nearest",
+            "mipfilter": "none",
+            "anisotropy": 0,
+            "isUuid": true,
+            "imageUuidOrDatabaseUri": "855b377e-8b06-4c43-85bf-147a19aff8fc@08561",
+            "visible": true
+          },
+          "ver": "1.0.22",
+          "imported": true,
+          "files": [
+            ".json"
+          ],
+          "subMetas": {}
+        }
+      }
+    },
+    "2a309": {
+      "importer": "alpha-image",
+      "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc@2a309",
+      "displayName": "alpha",
+      "id": "2a309",
+      "name": "alpha",
+      "userData": {
+        "fixAlphaTransparencyArtifacts": false,
+        "isRGBE": false,
+        "sign": "project://temp/asset-db/assets/85/855b377e-8b06-4c43-85bf-147a19aff8fc/855b377e-8b06-4c43-85bf-147a19aff8fc_sign.png",
+        "hasAlpha": true,
+        "redirect": "855b377e-8b06-4c43-85bf-147a19aff8fc@2a309@6c48a",
+        "type": "texture"
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {
+        "6c48a": {
+          "importer": "texture",
+          "uuid": "855b377e-8b06-4c43-85bf-147a19aff8fc@2a309@6c48a",
+          "displayName": "alpha",
+          "id": "6c48a",
+          "name": "texture",
+          "userData": {
+            "wrapModeS": "repeat",
+            "wrapModeT": "repeat",
+            "minfilter": "nearest",
+            "magfilter": "nearest",
+            "mipfilter": "none",
+            "anisotropy": 0,
+            "isUuid": true,
+            "imageUuidOrDatabaseUri": "855b377e-8b06-4c43-85bf-147a19aff8fc@2a309",
+            "visible": true
+          },
+          "ver": "1.0.22",
+          "imported": true,
+          "files": [
+            ".json"
+          ],
+          "subMetas": {}
+        }
+      }
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": false,
+    "isRGBE": true,
+    "sign": "project://temp/asset-db/assets/85/855b377e-8b06-4c43-85bf-147a19aff8fc/855b377e-8b06-4c43-85bf-147a19aff8fc_sign.png",
+    "alpha": "project://temp/asset-db/assets/85/855b377e-8b06-4c43-85bf-147a19aff8fc/855b377e-8b06-4c43-85bf-147a19aff8fc_alpha.png",
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "855b377e-8b06-4c43-85bf-147a19aff8fc@6c48a"
+  }
+}

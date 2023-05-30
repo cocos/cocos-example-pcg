@@ -1,0 +1,90 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "359b2790-c1c0-4736-81b0-0ac41c02ae7f",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@6c48a",
+      "displayName": "vertex_animation_textures1_pos",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "359b2790-c1c0-4736-81b0-0ac41c02ae7f",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08561": {
+      "importer": "sign-image",
+      "uuid": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@08561",
+      "displayName": "sign",
+      "id": "08561",
+      "name": "sign",
+      "userData": {
+        "fixAlphaTransparencyArtifacts": false,
+        "isRGBE": false,
+        "hasAlpha": true,
+        "redirect": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@08561@6c48a",
+        "type": "texture"
+      },
+      "ver": "1.0.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {
+        "6c48a": {
+          "importer": "texture",
+          "uuid": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@08561@6c48a",
+          "displayName": "sign",
+          "id": "6c48a",
+          "name": "texture",
+          "userData": {
+            "wrapModeS": "repeat",
+            "wrapModeT": "repeat",
+            "minfilter": "nearest",
+            "magfilter": "nearest",
+            "mipfilter": "none",
+            "anisotropy": 0,
+            "isUuid": true,
+            "imageUuidOrDatabaseUri": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@08561",
+            "visible": true
+          },
+          "ver": "1.0.22",
+          "imported": true,
+          "files": [
+            ".json"
+          ],
+          "subMetas": {}
+        }
+      }
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": false,
+    "isRGBE": true,
+    "sign": "project://temp/asset-db/assets/35/359b2790-c1c0-4736-81b0-0ac41c02ae7f/359b2790-c1c0-4736-81b0-0ac41c02ae7f_sign.png",
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "359b2790-c1c0-4736-81b0-0ac41c02ae7f@6c48a"
+  }
+}
